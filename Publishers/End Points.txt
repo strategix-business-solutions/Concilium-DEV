@@ -1,0 +1,4 @@
+http://bc.bwg.co.za:13147/BWA_UAT_WS/WS/BWA/Codeunit/BWA_API
+http://bc.bwg.co.za:13147/BWA_UAT_WS/WS/BWA/Page/BWA_CONSUMPTION
+http://bc.bwg.co.za:13148/BWA_UAT_WS/ODataV4/Company('BWA')/BWA_POWDERS_QRY
+http://bc.bwg.co.za:13148/BWA_UAT_WS/ODataV4/Company('BWA')/BWA_PROD_ORDER_QRY
