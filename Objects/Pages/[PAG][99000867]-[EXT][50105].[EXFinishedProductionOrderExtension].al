@@ -1,13 +1,13 @@
-//BWA - Strategix Integration Extension
+// - Strategix Integration Extension
 //Version: 1
-//Author:  FCV
+//Author:  CS
 //Type:    Extension
 //Object:  Page
 //ID:      99000867
-//NAME:    Finished Production Order
+//NAME:    Example Page Extension
 //GAP1
 
-pageextension 50105 "BWA Finished Prod Order" extends "Finished Production Order"
+pageextension 50105 "Example Page Extension" extends "Finished Production Order"
 {
     layout
     {

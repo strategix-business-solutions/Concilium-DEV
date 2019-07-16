@@ -3,25 +3,25 @@
     <TenantWebServiceCollection>
         <TenantWebService>
         <ObjectType>5</ObjectType>
-            <ServiceName>BWA_API</ServiceName>
+            <ServiceName>//\\</ServiceName>
             <ObjectID>50253</ObjectID>
             <Published>true</Published>
         </TenantWebService>
         <TenantWebService>
         <ObjectType>Page</ObjectType>
-            <ServiceName>BWA_CONSUMPTION</ServiceName>
+            <ServiceName>//\\</ServiceName>
             <ObjectID>99000846</ObjectID>
             <Published>true</Published>
         </TenantWebService>
         <TenantWebService>
             <ObjectType>Query</ObjectType>
-            <ServiceName>BWA_PROD_ORDER_QRY</ServiceName>
+            <ServiceName>//\\</ServiceName>
             <ObjectID>50150</ObjectID>
             <Published>true</Published>
         </TenantWebService>
         <TenantWebService>
             <ObjectType>Query</ObjectType>
-            <ServiceName>BWA_POWDERS_QRY</ServiceName>
+            <ServiceName>//\\</ServiceName>
             <ObjectID>50151</ObjectID>
             <Published>true</Published>
         </TenantWebService>

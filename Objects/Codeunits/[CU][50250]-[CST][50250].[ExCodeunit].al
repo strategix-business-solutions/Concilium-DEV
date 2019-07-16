@@ -1,12 +1,12 @@
-//BWA - Strategix Integration Extension
+// - Strategix Integration Extension
 //Version: 1
-//Author:  FCV
+//Author:  CS
 //Type:    Custom
 //Object:  Codeunit
 //ID:      50250
-//NAME:    BWA Management
+//NAME:    Example Codeunit
 
-codeunit 50250 "BWA Management"
+codeunit 50250 "Example Codeunit"
 {
     trigger OnRun()
     begin

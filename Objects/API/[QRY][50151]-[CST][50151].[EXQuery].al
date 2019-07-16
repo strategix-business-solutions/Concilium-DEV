@@ -1,25 +1,25 @@
-//BWA - Strategix Integration Extension
+// - Strategix Integration Extension
 //Version: 1
-//Author:  FCV
+//Author:  CS
 //Type:    Custom
 //Object:  Query
 //ID:      50151
-//NAME:    BWA Powder Items
+//NAME:    Example Query
 
-query 50151 "BWA Powder Items"
+query 50151 "Example Query"
 {
     QueryType = API;
-    APIPublisher = 'BWA';
-    APIGroup = 'BWASTXIntegration';
+    APIPublisher = '';
+    APIGroup = '';
     APIVersion = 'v1.0';
-    EntityName = 'Powder';
-    EntitySetName = 'Powders';
+    EntityName = '';
+    EntitySetName = '';
 
     elements
     {
         dataitem(ITEMS; Item)
         {
-            DataItemTableFilter = "Item Category Code" = filter ('POWDER');
+            DataItemTableFilter = "Item Category Code" = filter ('');
             column(No; "No.")
             { }
             column(Description; Description)

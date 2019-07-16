@@ -1,13 +1,13 @@
-//BWA - Strategix Integration Extension
+//- Strategix Integration Extension
 //Version: 1
-//Author:  FCV
+//Author:  CS
 //Type:    Extension
 //Object:  Report
 //ID:      206
-//NAME:    Sales Invoice
+//NAME:    Example Report
 
 
-report 50100 "BWA Sales - Invoice"
+report 50100 "Example Report"
 {
     // version NAVW113.01
 

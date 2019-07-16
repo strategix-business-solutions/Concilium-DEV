@@ -1,12 +1,12 @@
-//BWA - Strategix Integration Extension
+// - Strategix Integration Extension
 //Version: 1
-//Author:  FCV
+//Author:  CS
 //Type:    Extension
 //Object:  Table
 //ID:      27
 //NAME:    Items
 
-tableextension 50205 "BWA Item Extension" extends Item
+tableextension 50205 "Example Item Extension" extends Item
 {
     fields
     {
