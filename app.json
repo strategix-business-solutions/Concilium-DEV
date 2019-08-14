@@ -1,0 +1,24 @@
+{
+  "id": "db077869-b695-4a97-a5ce-f28a4935b8b1",
+  "name": "Concillium_DEV",
+  "publisher": "Strategix Business Solutions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "runtime": "2.4",
+  "showMyCode": true,
+  "idRange": 
+    {
+      "from": 60000,
+      "to": 60100
+    }
+}
